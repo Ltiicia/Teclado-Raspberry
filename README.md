@@ -12,6 +12,8 @@
 9.  Thiago Santos Sousa
 10. Yuri Coutinho Costa
 
+Vídeo: https://www.youtube.com/watch?v=4P86fNi1Z6s
+
 Este projeto visa desenvolver um sistema embarcado composto por um teclado matricial, um LED RGB e um Buzzer, realizando o controle dos componentes pelo teclado.
 
 O projeto utiliza um teclado 4x4 onde cada tecla realiza uma função especíca no controle de um buzzer e três LED's RGB. Ele utiliza como microcontrolador um raspberry pi pico w, segue abaixo as funções para cada tecla no teclado:
